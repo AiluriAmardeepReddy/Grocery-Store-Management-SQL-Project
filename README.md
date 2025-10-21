@@ -1,10 +1,11 @@
-🛒 Grocery Store Management System | SQL Project
-📘 Overview
+### 🛒 Grocery Store Management System | SQL Project
+
+#### 📘 Overview
 
 The Grocery Store Management System is a SQL-based data analysis project focused on extracting meaningful business insights from a retail database.
 Using MySQL, this project analyzes key aspects of store operations such as customers, suppliers, employees, products, and sales to drive data-backed decisions and improve business performance.
 
-🎯 Objectives
+#### 🎯 Objectives
 
 Analyze customer purchasing behavior and identify top buyers
 
@@ -16,7 +17,7 @@ Examine category-wise and product-level sales performance
 
 Uncover monthly and weekly sales trends to guide strategic planning
 
-🗂️ Database Design
+#### 🗂️ Database Design
 
 The project uses a normalized relational database schema with clear one-to-many relationships:
 
@@ -32,7 +33,7 @@ Employees → Orders
 
 An ER Diagram was designed to illustrate the relationships between entities and ensure smooth data flow across tables.
 
-🧠 Key Insights
+#### 🧠 Key Insights
 
 The top 5 customers contributed over 60% of total revenue, highlighting loyal buyer influence.
 
@@ -44,7 +45,7 @@ A positive correlation was found between quantity ordered and revenue growth.
 
 Employee performance metrics revealed opportunities for operational improvement.
 
-⚙️ Tools & Techniques
+#### ⚙️ Tools & Techniques
 
 Database: MySQL
 
@@ -54,7 +55,7 @@ Focus Areas: Customer Analytics, Supplier Insights, Product Performance, Employe
 
 Deliverables: ER Diagram, SQL Queries, and Analytical Report
 
-💡 Business Recommendations
+#### 💡 Business Recommendations
 
 Implement a customer loyalty program to retain high-value buyers
 
@@ -66,7 +67,7 @@ Increase inventory and promotions during peak months
 
 Refine pricing strategies based on category-level sales analysis
 
-📎 Project Files
+#### 📎 Project Files
 
 Grocery Store Management System _ SQL Project.pdf – Full project documentation
 
@@ -78,7 +79,7 @@ database_schema.sql – Database schema and table design
 👉 [Grocery Store Management System | SQL Project](https://github.com/AiluriAmardeepReddy/Grocery-Store-Management-SQL-Project)
 
 
-🏁 Conclusion
+#### 🏁 Conclusion
 
 This project showcases how SQL and relational database analysis can transform raw data into strategic business insights.
 It strengthened my skills in data modeling, query optimization, and business interpretation, emphasizing how analytics can directly influence decision-making and growth.
